@@ -6,3 +6,4 @@ numpy
 chromadb
 pypdf
 langchain-text-splitters
+python-multipart
