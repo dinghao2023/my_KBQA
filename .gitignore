@@ -1,6 +1,8 @@
 .env
 .venv/
 chroma_db/
+docs/*
+!docs/.gitkeep
 __pycache__/
 *.py[cod]
 *.egg-info/

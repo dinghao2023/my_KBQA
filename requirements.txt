@@ -4,3 +4,5 @@ openai
 python-dotenv
 numpy
 chromadb
+pypdf
+langchain-text-splitters
